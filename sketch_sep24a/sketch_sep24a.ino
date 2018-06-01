@@ -40,7 +40,7 @@ void loop()
 //    // "{x:90,y:90,z:90}"
 //
 //    //气压、海拔
-//    Neutron.getPressureAltitudeData(presureData, altitudeData);
+    Neutron.getPressureAltitudeData(presureData, altitudeData);
 //    SerialUSB.printf("\npresure: %d\r\n", (uint32_t)presureData);
 //    SerialUSB.printf("altitude: %d\r\n", (uint32_t)altitudeData);
 //
